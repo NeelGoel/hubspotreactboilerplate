@@ -1,0 +1,14 @@
+defaultPortal: reacthubspot
+portals:
+  - name: reacthubspot
+    portalId: 22682166
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CODYhaS2MBIIAAUAAAAAAAwYtrToCiCywLAWKO7pDDIUMAV_tr2VUp6_xWG_qrCp_F3zbiQ6IQAABEEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAPEIU8aPG61rGN9JkyR35mecBILIuaMtKA25hMVIAWgA
+        expiresAt: '2022-09-22T09:22:27.044Z'
+    personalAccessKey: >-
+      CiQyZWE5MTA1OC1iNzc5LTQ5NTgtOGM5Mi1jNjBhNzg3MjYwNjkQtrToChiywLAWKhkABeaRgnk9AkVHzAKydFw53Sef6koPwyFUSgNuYTE
+    sandboxAccountType: null
+    parentAccountId: null

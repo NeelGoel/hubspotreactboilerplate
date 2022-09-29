@@ -1,0 +1,49 @@
+[
+  {
+   "default": 0,
+   "display": "slider",
+   "display_width": null,
+   "id": "initial_count",
+   "label": "Starting number of reasons",
+   "locked": false,
+   "max": 100,
+   "min": 0,
+   "name": "initial_count",
+   "required": false,
+   "step": 1,
+   "type": "number"
+  },
+  {
+   "type": "text",
+   "id": "81559cd9-bc5a-73ea-37cb-01ac3b8f4bc2",
+   "validation_regex": "",
+   "label": "SaStrategy Head1",
+   "name": "sastrategy_head1",
+   "default": "National Gaming & Esports Strategy",
+   "placeholder": "Enter Value"
+  },
+  {
+   "type": "text",
+   "id": "598adba6-c255-ddbe-754f-7e0bd28de1cc",
+   "validation_regex": "",
+   "label": "saStrategy_Head2",
+   "name": "sastrategy_head2",
+   "default": "The National Gaming and Esports Strategy is a comprehensive investment to develop the entire gaming and Esports value chain. It is driven by the passion of gamers. Everyone is invited to play, in a strategy that fosters new career and business opportunities and will make Saudi Arabia the center of the game by 2030.",
+   "placeholder": "Enter your text"
+  },
+  {
+   "type": "image",
+   "id": "dbb81bd4-17b7-d970-700a-2c3929c15616",
+   "default": {
+    "size_type": "auto",
+    "src": "",
+    "alt": null,
+    "loading": "lazy"
+   },
+   "resizable": true,
+   "responsive": true,
+   "show_loading": false,
+   "label": "Image_strategy",
+   "name": "image_strategy"
+  }
+ ]
